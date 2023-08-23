@@ -5,8 +5,7 @@ Trabajo práctico HTML – 1
 Construir sitio web para una empresa de Desarrollo de Software, que contenga cuatro archivos html, según las siguientes especificaciones.
 
 Denominación de los archivos:
-
- index.html
- fotos.html
- servicios.html
- contactos.html
+index.html
+fotos.html
+servicios.html
+contactos.html
